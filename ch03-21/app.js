@@ -1,4 +1,4 @@
-// Operators(運算子)
+// 運算子(Operators)
 
 var a = 3 + 4;
 console.log(a);

@@ -1,4 +1,4 @@
-// Javascript Engine 自動給定的 參數(arguments) 關鍵字(keyword)、展開運算子語法(spread syntax)
+// Javascript Engine 自動給定的 參數(arguments) 關鍵字(keyword)、剩餘運算子(rest operator)
 
 /** Function.arguments */
 function greet (firstName, lastName, language, ...other) {
@@ -20,7 +20,7 @@ function greet (firstName, lastName, language, ...other) {
 // greet('Hans', 'Tsai');   // firstName: Hans, lastName: Tsai, language: en
 greet('Hans', 'Tsai', 'zh-tw', '111 Main St.', 'Taipei');   // firstName: Hans, lastName: Tsai, language: zh-tw
 
-/** spread syntax */
+/** rest operator */
 function greet2 (firstName, lastName, language, ...other) {
     console.log(other);
 }

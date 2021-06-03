@@ -1,4 +1,4 @@
-// 陣列(Array): collections of anything
+// 陣列 (Array): collections of anything
 
 var arr = [
     1,

@@ -1,0 +1,23 @@
+{
+  "name": "javascript-weird-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hans-Tsai/Javascript-weird-parts.git"
+  },
+  "author": "Hans Tsai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hans-Tsai/Javascript-weird-parts/issues"
+  },
+  "homepage": "https://github.com/Hans-Tsai/Javascript-weird-parts#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "underscore": "^1.13.1"
+  }
+}

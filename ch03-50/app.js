@@ -53,7 +53,7 @@ console.log(person.getFullName.apply(person2));   // Eric Wang
 
 /** function currying */
 function multiply (a, b) {
-    return a*b;
+    return a * b;
 }
 
 /** Function.bind() 後面的參數會設定給新拷貝的函數物件作為永久參數預設值 */
@@ -67,6 +67,6 @@ console.log(multipleByThree(4));   // 12 = 3 * 4
 /** 上述寫法相當於以下的意思，給定新拷貝的函數永久參數預設值 */
 function multiplyDirection (c, d) {
     var c = 2;
-    return c*d;
+    return c * d;
 }
 

@@ -1,4 +1,4 @@
-// 範圍鏈(scope chain)---進階範例
+// 範圍鏈 (scope chain) --- 進階範例
 
 function a() {
   function b() {

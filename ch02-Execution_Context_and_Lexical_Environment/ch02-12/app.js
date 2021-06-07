@@ -1,4 +1,4 @@
-// Javascript的執行階段，會逐行執行
+// Javascript 的執行階段，會逐行執行
 
 function b() {
   console.log('Called b!')

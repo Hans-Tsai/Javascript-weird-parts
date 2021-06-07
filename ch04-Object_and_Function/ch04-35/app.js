@@ -1,4 +1,4 @@
-// 函數陳述句(function statements) & 函數表示式(function expressions)
+// 函數陳述句 (function statements) & 函數表示式 (function expressions)
 
 greet();   // hi
 /** function statements */

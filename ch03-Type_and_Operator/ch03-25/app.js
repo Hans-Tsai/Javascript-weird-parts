@@ -1,4 +1,4 @@
-// 比較運算子(Comparison operators)
+// 比較運算子 (Comparison operators)
 
 console.log(1 < 2 < 3);   // true
 console.log(3 < 2 < 1);   // true，因為相當於印出 false < 1

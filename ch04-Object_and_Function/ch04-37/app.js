@@ -1,4 +1,4 @@
-// 物件(objects)、函數(functions)、this 關鍵字(keyword)
+// 物件 (objects)、函數 (functions)、this 關鍵字 (keyword)
 
 console.log(this);   // this 會指向 global object
 

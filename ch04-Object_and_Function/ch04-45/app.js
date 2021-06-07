@@ -1,4 +1,4 @@
-// 立即呼叫的函數表示式(IIFE)擁有自己的執行環境(execution context)，而不受全域執行環境(global execution context)所影響
+// 立即呼叫的函數表示式 (IIFE) 擁有自己的執行環境 (execution context)，而不受全域執行環境 (global execution context) 所影響
 
 /** IIFE
  * @note 這段程式碼範例需要透過瀏覽器才能執行，無法利用 Node.js 來執行

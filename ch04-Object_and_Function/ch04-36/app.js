@@ -1,4 +1,4 @@
-// 傳值(by value) & 傳址(by reference)
+// 傳值 (by value) & 傳址 (by reference)
 
 /** by value */
 var a = 3;

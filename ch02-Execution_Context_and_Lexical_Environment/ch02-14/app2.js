@@ -1,4 +1,4 @@
-// 呼叫函數(function invocation)---進階範例
+// 呼叫函數 (function invocation) --- 進階範例
 
 function a() {
   b()

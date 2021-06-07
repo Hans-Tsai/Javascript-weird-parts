@@ -1,4 +1,4 @@
-// 物件實體語法(Object literal syntax) --- 進階篇
+// 物件實體語法 (Object literal syntax) --- 進階篇
 
 var Hans = { 
   firstName: 'Hans', 

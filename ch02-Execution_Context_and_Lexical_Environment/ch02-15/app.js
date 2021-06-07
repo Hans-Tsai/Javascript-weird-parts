@@ -1,4 +1,4 @@
-// 變數環境(variable environment)、範圍(scope)
+// 函數 (Function)、變數環境 (variable environment)、範圍 (scope)
 
 function b() {
   var myVar;

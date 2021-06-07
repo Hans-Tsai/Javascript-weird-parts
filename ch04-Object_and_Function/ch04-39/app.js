@@ -1,4 +1,4 @@
-// Javascript Engine 自動給定的 參數(arguments) 關鍵字(keyword)、剩餘運算子(rest operator)
+// Javascript Engine 自動給定的 參數 (arguments)、關鍵字 (keyword)、剩餘運算子(rest operator)
 
 /** Function.arguments */
 function greet (firstName, lastName, language, ...other) {

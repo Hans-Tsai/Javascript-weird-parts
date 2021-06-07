@@ -1,4 +1,4 @@
-// 強制轉型(coercion)
+// 強制轉型 (coercion)
 
 var a = 1 + '2';
 console.log(typeof a);  // string

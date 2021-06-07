@@ -1,4 +1,4 @@
-// JSON & 物件實體語法(Object literal syntax) 是不同的東西
+// JSON & 物件實體語法 (Object literal syntax) 是不同的東西
 
 var objectLiteral = {
     firstName: 'Mary',

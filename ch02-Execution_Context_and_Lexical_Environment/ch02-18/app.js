@@ -1,4 +1,4 @@
-// Demonstrate how Javascript handle asynchronous callbacks
+// 非同步回呼 (asynchronous callback) --- Demonstrate how Javascript handle asynchronous callbacks
 
 // long running function (模擬需要花長時間動作的函數)
 function waitThreeSeconds() {

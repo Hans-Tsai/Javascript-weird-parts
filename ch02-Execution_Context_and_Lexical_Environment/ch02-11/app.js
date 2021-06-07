@@ -1,4 +1,4 @@
-// Javascript的特殊值: undefined
+// Javascript 的特殊值: undefined
 
 var a;
 console.log(a);  // a = undefined

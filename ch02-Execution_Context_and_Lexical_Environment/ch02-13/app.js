@@ -1,4 +1,4 @@
-// 單執行緒(single threaded, synchronous execution)
+// 單執行緒 (single threaded) & 同步執行 (synchronous execution)
 
 // 單執行緒(single threaded): 這表示一次執行一個指令。
 // 例如: 每個程式都會有一堆指令，在程式碼裡有一堆指令; 而單執行緒表示我們一次只能執行一個指令。

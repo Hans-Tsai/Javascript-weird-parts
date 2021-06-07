@@ -1,4 +1,4 @@
-// 預設值(default value)的實戰應用篇
+// 預設值 (default value) 的實戰應用篇
 
 // console.log(libraryName);   // 正常來說，用瀏覽器執行的話，在 console 會看到印出 Lib 2
 

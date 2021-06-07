@@ -1,4 +1,4 @@
-// 存在(Existence) & 布林(Boolean)---強制轉型(coercion)的優點
+// 存在 (Existence) & 布林 (Boolean) --- 強制轉型 (coercion) 的優點
 
 console.log(Boolean(undefined));   // false
 console.log(Boolean(null));   // false

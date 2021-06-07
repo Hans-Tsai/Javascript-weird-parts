@@ -1,4 +1,4 @@
-// 範圍鏈(scope chain)---基礎範例
+// 範圍鏈 (scope chain) --- 基礎範例
 
 function b() {
   console.log(myVar);

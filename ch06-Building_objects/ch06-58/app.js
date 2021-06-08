@@ -1,4 +1,4 @@
-// 建立新物件及其原型: 函數建構子 (function constructor)、函數建構子的屬性 (functionConstructorName.prototype)
+// 建立新物件及其原型: 函數建構子 (function constructor)、函數建構子的原型屬性 (functionConstructorName.prototype)
 
 /** 利用函數建構子 (function constructor) 就是一個函數 
  * @note 可以透過函數建構子的參數，來動態傳入我們想要個別設定的成員屬性值

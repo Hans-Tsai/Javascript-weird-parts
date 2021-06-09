@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Hans-Tsai/Javascript-weird-parts#readme",
   "dependencies": {
+    "jquery": "^3.6.0",
+    "jsdom": "^16.6.0",
     "lodash": "^4.17.21",
     "underscore": "^1.13.1"
   }

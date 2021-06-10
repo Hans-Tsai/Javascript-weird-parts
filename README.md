@@ -84,7 +84,8 @@ Part 06 --- 建立物件 (Building objects)
 
 Part 07 --- 雜談 (Odds and ends)
 ---
-- [ch07-odds_and_ends](./ch07-odds_and_ends)
+- [ch07-66 --- `typeof` & `instanceof` 關鍵字](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch07-66)
+- [ch07-67 --- 嚴謹模式](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch07-67)
 
 Part 08 --- 檢驗知名的框架與函式庫 (Dive into open source projects)
 ---

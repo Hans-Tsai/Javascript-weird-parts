@@ -96,5 +96,5 @@ Part 08 --- 檢驗知名的框架與函式庫 (Dive into open source projects)
 
 Part 09 --- 練習打造一個客製化的函式庫 (Hands-on a customized library)
 ---
-- [ch09-Hands_on_customized_library](./ch09-Hands_on_customized_library)
+- [ch09-73 --- 客製化的 `Greetr` 打招呼函式庫](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch09-73)
 

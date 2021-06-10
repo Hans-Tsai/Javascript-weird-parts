@@ -98,3 +98,7 @@ Part 09 --- 練習打造一個客製化的函式庫 (Hands-on a customized libra
 ---
 - [ch09-73 --- 客製化的 `Greetr` 打招呼函式庫](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch09-73)
 
+Part 10 --- Bonus 課程
+---
+- [ch10-81 --- TypeScript、ES6 & 轉譯式語言](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch10-81)
+

@@ -5,6 +5,7 @@ Udemy 線上課程筆記 (目錄總覽)
 ###### tags: `Udemy`、`Javascript`
 
 [<font size=6 color=yellow>Javascript: Understanding the weird parts</font>](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_catalog)<br>
+---
 
 Part 01: 準備開始
 ---
@@ -65,14 +66,21 @@ Part 04 --- 物件 (Object) & 函數 (Function)
 
 Part 05 --- Javascript 的物件導向(Object-Oriented Programming, OOP) & 原型繼承 (prototypal inheritance)
 ---
-- [ch05-53 --- 觀念小叮嚀：古典和原型繼承](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-53)
-- [ch05-54 --- 瞭解原型](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-54)
-- [ch05-55 --- 所有東西都是物件(或純值)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-55)
-- [ch05-56 --- Reflection & Extend](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-56)
+- [ch05-53 --- 觀念小叮嚀：古典和原型繼承](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch05-53)
+- [ch05-54 --- 瞭解原型](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch05-54)
+- [ch05-55 --- 所有東西都是物件(或純值)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch05-55)
+- [ch05-56 --- Reflection & Extend](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch05-56)
 
 Part 06 --- 建立物件 (Building objects)
 ---
-- [ch06-Building_objects](./ch06-Building_objects)
+- [ch06-57 --- 函數建構子、`new` 關鍵字、JavaScript 的歷史](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch06-57)
+- [ch06-58 --- 函數建構子 & 原型屬性 (`函數建構子名稱.prototype`)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch06-58)
+- [ch06-59 --- 危險小叮嚀：`new` 關鍵字 & 函數](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch06-59)
+- [ch06-60 --- 觀念小叮嚀：內建的函數建構子](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch06-60)
+- [ch06-61 --- 危險小叮嚀：內建的函數建構子](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch06-61)
+- [ch06-62 --- 危險小叮嚀：陣列、`for (itemKey in obj) { ... }`](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch06-62)
+- [ch06-63 --- `Object.create()` & 純粹的原型繼承](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch06-63)
+- [ch06-64 --- ES6: 類別 (`class`)、繼承 (`extends`)、呼叫父類別建構子(`super`)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch06-64)
 
 Part 07 --- 雜談 (Odds and ends)
 ---

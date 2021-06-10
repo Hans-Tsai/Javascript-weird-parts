@@ -4,7 +4,7 @@ Udemy 線上課程筆記 (目錄總覽)
 [![hackmd-github-sync-badge](https://hackmd.io/_z4MP-A6R92ojswYm-35GQ/badge)](https://hackmd.io/_z4MP-A6R92ojswYm-35GQ)
 ###### tags: `Udemy`、`Javascript`
 
-<font size=6 color=yellow>Javascript: Understanding the weird parts</font><br>
+[<font size=6 color=yellow>Javascript: Understanding the weird parts</font>](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_catalog)<br>
 
 Part 01: 準備開始
 ---
@@ -39,7 +39,29 @@ Part 03 --- 型別 (Type) & 運算子 (Operator)
 
 Part 04 --- 物件 (Object) & 函數 (Function)
 ---
-- [ch04-Object_and_Function](./ch04-Object_and_Function)
+- [ch04-30 --- 物件 & 點運算子](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-30)
+- [ch04-31 --- 物件 & 物件實體](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-31)
+- [ch04-32 --- 框架小叮嚀：偽裝命名空間](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-32)
+- [ch04-33 --- JSON 與 物件實體](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-33)
+- [ch04-34 --- 函數就是物件](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-34)
+- [ch04-35 --- 函數陳述句、函數表示式](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-35)
+- [ch04-36 --- 觀念小叮嚀：傳值、傳參考](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-36)
+- [ch04-37 --- 物件、函數、`this` 變數](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-37)
+- [ch04-38 --- 觀念小叮嚀：陣列——任何東西的集合](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-38)
+- [ch04-39 --- `arguments` & 展開、剩餘運算子 ( `...` )](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-39)
+- [ch04-40 --- 框架小叮嚀：重載函數](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-40)
+- [ch04-41 --- 觀念小叮嚀：語法解析器](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-41)
+- [ch04-42 --- 危險小叮嚀：自動插入分號](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-42)
+- [ch04-43 --- 框架小叮嚀：空格](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-43)
+- [ch04-44 --- 立即呼叫的函數表示式（IIFEs）](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-44)
+- [ch04-45 --- 框架小叮嚀：IIFEs & 安全程式碼](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-45)
+- [ch04-46 --- 閉包的概念](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-46)
+- [ch04-47 --- 閉包的實戰演練](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-47)
+- [ch04-48 --- 框架小叮嚀：函數工廠 (Function Factories)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-48)
+- [ch04-49 --- 閉包 & 回呼函數](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-49)
+- [ch04-50 --- `Function.prototype.bind()`、`call()`、`apply()`](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-50)
+- [ch04-51 --- 函數程式設計的觀念](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-51)
+- [ch04-52 --- 實戰應用到函數程式設計的觀念的函式庫、開源教育](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-52)
 
 Part 05 --- Javascript 的物件導向(Object-Oriented Programming, OOP) & 原型繼承 (prototypal inheritance)
 ---

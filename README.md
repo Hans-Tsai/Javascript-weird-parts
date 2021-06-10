@@ -89,7 +89,10 @@ Part 07 --- 雜談 (Odds and ends)
 
 Part 08 --- 檢驗知名的框架與函式庫 (Dive into open source projects)
 ---
-- [ch08-Dive_into_open_source_project](./ch08-Dive_into_open_source_project)
+- [ch08-69 --- 從好的程式碼學習](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch08-69)
+- [ch08-70 --- 深入瞭解原始碼：jQeury (一)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch08-70)
+- [ch08-71 --- 深入瞭解原始碼：jQeury (二)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch08-71)
+- [ch08-72 --- 深入瞭解原始碼：jQeury (三)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch08-72)
 
 Part 09 --- 練習打造一個客製化的函式庫 (Hands-on a customized library)
 ---

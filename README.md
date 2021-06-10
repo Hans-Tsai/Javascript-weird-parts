@@ -65,7 +65,10 @@ Part 04 --- 物件 (Object) & 函數 (Function)
 
 Part 05 --- Javascript 的物件導向(Object-Oriented Programming, OOP) & 原型繼承 (prototypal inheritance)
 ---
-- [ch05-Javascript_OOP_and_prototypal_inheritance](./ch05-Javascript_OOP_and_prototypal_inheritance)
+- [ch05-53 --- 觀念小叮嚀：古典和原型繼承](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-53)
+- [ch05-54 --- 瞭解原型](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-54)
+- [ch05-55 --- 所有東西都是物件(或純值)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-55)
+- [ch05-56 --- Reflection & Extend](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-56)
 
 Part 06 --- 建立物件 (Building objects)
 ---

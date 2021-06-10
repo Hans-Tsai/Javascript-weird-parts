@@ -4,7 +4,7 @@ Udemy 線上課程筆記 (目錄總覽)
 [![hackmd-github-sync-badge](https://hackmd.io/_z4MP-A6R92ojswYm-35GQ/badge)](https://hackmd.io/_z4MP-A6R92ojswYm-35GQ)
 ###### tags: `Udemy`、`Javascript`
 
-<font size=20 color=yellow>Javascript: Understanding the weird parts</font><br>
+<font size=6 color=yellow>Javascript: Understanding the weird parts</font><br>
 
 Part 01: 準備開始
 ---
@@ -27,7 +27,15 @@ Part 02 --- 執行環境 (Execution Context) & 詞彙環境 (Lexical Environment
 
 Part 03 --- 型別 (Type) & 運算子 (Operator)
 ---
-- [ch03-Type_and_Operator](./ch03-Type_and_Operator)
+- [ch03-19 --- 型別 與 JavaScript](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-19)
+- [ch03-20 --- 純值](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-20)
+- [ch03-21 --- 觀念小叮嚀：運算子](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-21)
+- [ch03-22 --- 運算子的優先性 & 相依性](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-22)
+- [ch03-24 --- 觀念小叮嚀：強制型轉](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-24)
+- [ch03-25 --- 比較運算子](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-25)
+- [ch03-27 --- 存在與布林](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-27)
+- [ch03-28 --- 預設值](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-28)
+- [ch03-29 --- 框架小叮嚀：預設值](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch03-29)
 
 Part 04 --- 物件 (Object) & 函數 (Function)
 ---

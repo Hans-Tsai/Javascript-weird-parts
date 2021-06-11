@@ -57,10 +57,10 @@ Part 04 --- 物件 (Object) & 函數 (Function)
 - [ch04-44 --- 立即呼叫的函數表示式（IIFEs）](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-44)
 - [ch04-45 --- 框架小叮嚀：IIFEs & 安全程式碼](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-45)
 - [ch04-46 --- 閉包的概念](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-46)
-- [ch04-47 --- 閉包的實戰演練](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-47)
+- [ch04-47 — 閉包的實戰演練 & 自由變數 (free variable)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-47)
 - [ch04-48 --- 框架小叮嚀：函數工廠 (Function Factories)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-48)
 - [ch04-49 --- 閉包 & 回呼函數](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-49)
-- [ch04-50 --- `Function.prototype.bind()`、`call()`、`apply()`](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-50)
+- [ch04-50 --- `Function.prototype.bind()`、`call()`、`apply()` & 函數借用 (function borrowing) & 函數柯里化 (function currying)](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-50)
 - [ch04-51 --- 函數程式設計的觀念](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-51)
 - [ch04-52 --- 實戰應用到函數程式設計的觀念的函式庫、開源教育](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch04-52)
 
@@ -102,3 +102,6 @@ Part 10 --- Bonus 課程
 ---
 - [ch10-81 --- TypeScript、ES6 & 轉譯式語言](https://hackmd.io/@Hans-Tsai/udemy_js_weird_parts_ch10-81)
 
+結業證書
+---
+- ![Imgur](https://i.imgur.com/1DSInvc.jpg)

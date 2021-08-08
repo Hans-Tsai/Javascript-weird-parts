@@ -5,7 +5,7 @@ var person = {
     firstName: 'Hans',
     lastName: 'Tsai',
     getFullName: function () {
-        var fullName = `${this.firstName} ${this.lastName}`
+        var fullName = `${this.firstName} ${this.lastName}`;
         return fullName;
     }
 };
@@ -17,8 +17,8 @@ var logName = function (lang1, lang2) {
     console.log(`-----------------------------`);
 };
 
-/** 因為 this.getFullName 會指向全域物件，而全域物件並沒有 getFullName() 這個方法 */
-// logName();   // undefined
+/** 會報錯，因為 this.getFullName 會指向全域物件，而全域物件並沒有 getFullName() 這個方法 */
+// logName();   // TypeError: this.getFullName is not a function
 
 /** 解決方法一: 加上 Function.bind() 方法，強制將新的函數物件拷貝 logName2 的新執行環境中 this 變數指向 person 物件 
  * @note 也就是說這時候 logName2 內的 this.getFullName() 就相當於是 person.getFullName()
@@ -59,10 +59,10 @@ function multiply (a, b) {
 /** Function.bind() 後面的參數會設定給新拷貝的函數物件作為永久參數預設值 */
 var multipleByTwo = multiply.bind(this, 2);
 /** 因此，這樣呼叫函數的話，就相當於給定新的函數物件拷貝(=> 也就是 multipleByTwo)的 b 參數值為 4 */
-console.log(multipleByTwo(4));   // 8 = 2 * 4
+console.log(multipleByTwo(4));   // 8 = 4 * 2
 
 var multipleByThree = multiply.bind(this, 3);
-console.log(multipleByThree(4));   // 12 = 3 * 4
+console.log(multipleByThree(4));   // 12 = 4 * 3
 
 /** 上述寫法相當於以下的意思，給定新拷貝的函數永久參數預設值 */
 function multiplyDirection (c, d) {

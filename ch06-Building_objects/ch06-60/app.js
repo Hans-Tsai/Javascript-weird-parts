@@ -5,7 +5,7 @@ String.prototype.isLengthGreaterThan = function (limiter) {
     return this.length > limiter;;
 };
 /** Javascript Engine 會自動將 "Hans" 字串轉換成物件型別，因此才能透過原型鏈呼叫 String 物件中自定義的 isLengthGreaterThan() 方法 */
-console.log("Hans".isLengthGreaterThan());   // true
+console.log("Hans".isLengthGreaterThan(2));   // true
 
 Number.prototype.isPositive = function () {
     return this > 0;
